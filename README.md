@@ -1,3 +1,6 @@
+A project realized following OpenClassrooms course "Développez des applications Web avec Angular, using Angular 9.
+
+
 # Jukebox
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
